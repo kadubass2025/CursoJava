@@ -1,6 +1,6 @@
 package INTRODUCAO;
 
-public class Aula05EstruturasCondicionaisIFELSE02 {
+public class Aula05IFELSEEstruturasCondicionais02 {
     public static void main(String[] args) {
         //Atividade: imprima
         //se idade < 15 imprima categoria infantil

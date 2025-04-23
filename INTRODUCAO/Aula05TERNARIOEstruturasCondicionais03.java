@@ -1,6 +1,6 @@
 package INTRODUCAO;
 
-public class Aula05EstruturasCondicionaisTERNARIO03 {
+public class Aula05TERNARIOEstruturasCondicionais03 {
     public static void main(String[] args) {
         //Doar 500 se salário > 5000
         double salario = 4000;

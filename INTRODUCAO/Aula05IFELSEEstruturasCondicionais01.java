@@ -1,6 +1,6 @@
 package INTRODUCAO;
 
-public class Aula05EstruturasCondicionaisIFELSE01 {
+public class Aula05IFELSEEstruturasCondicionais01 {
     public static void main(String[] args) {
         int idade = 15;
         boolean isAutorizadoComprarBebida = idade>=18;
