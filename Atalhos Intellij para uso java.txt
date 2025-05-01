@@ -1,0 +1,24 @@
+
+Atalhos úteis INTELLIJ
+
+
+| Ação                                  | Atalho                            |
+|---------------------------------------|------------------------------------|
+| **Formatar código**                  | `Ctrl + Alt + L`                  |
+| **Organizar imports automaticamente**| `Ctrl + Alt + O`                  |
+| **Gerar getters/setters**            | `Alt + Insert`                    |
+| **Auto completar**                   | `Ctrl + Space`                    |
+| **Refatorar (renomear variável)**    | `Shift + F6`                      |
+| **Comentar/descomentar linha**       | `Ctrl + /`                        |
+| **Comentar bloco**                   | `Ctrl + Shift + /`               |
+| **Duplicar linha**                   | `Ctrl + D`                        |
+| **Apagar linha**                     | `Ctrl + Y`                        |
+| **Ir para declaração**               | `Ctrl + B` ou `Ctrl + Click`     |
+| **Navegar entre arquivos abertos**   | `Ctrl + E`                        |
+| **Executar código**                  | `Shift + F10`                     |
+| **Debugar código**                   | `Shift + F9`                      |
+| **Buscar em todos os arquivos**      | `Ctrl + Shift + F`                |
+| **Buscar classe**                    | `Ctrl + N`                        |
+| **Buscar arquivo**                   | `Ctrl + Shift + N`                |
+| **Mostrar estrutura (métodos, etc)** | `Ctrl + F12`                      |
+| **Reformatar e otimizar de uma vez** | `Ctrl + Alt + Shift + L`          |
